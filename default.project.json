@@ -1,0 +1,6 @@
+{
+    "name": "CLI",
+    "tree": {
+        "$path": "src"
+    }
+}
